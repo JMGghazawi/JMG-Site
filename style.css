@@ -1,0 +1,43 @@
+body {
+    background: #111;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.btn {
+    display: block;
+    margin: 15px auto;
+    padding: 15px;
+    width: 200px;
+    background: #0a84ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.login-box {
+    margin-top: 120px;
+}
+
+.gallery img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.videos video {
+    width: 300px;
+    margin: 10px;
+}
+
+.audio-list audio {
+    display: block;
+    margin: 20px auto;
+}
